@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: rgb(223, 221, 224);
+}
+
+.message-margin {
+    margin-top: 20px;
+}
+
+.message-margin2 {
+    margin-left: 11rem;
+}
+
+.message-margin3 {
+    margin-top: 5px;
+}
+
+.image-margin1 {
+    margin-left: 1rem;
+}
+
+.image-margin2 {
+    margin-left: 0.5rem;
+}
