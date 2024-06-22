@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.margin-top-name {
+    margin-top: 30px;
+}
+
+.margin-image-profile {
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.margin-infornation {
+    margin-left: 45px;
+    margin-top: 30px;
+}
+.margin-infornation-sub {
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+.margin-infornation3 {
+    margin-left: 20px;
+}
+
+.margin-sub-font {
+    margin-top: 5px;
+}
+
+.margin-sub-font2 {
+    margin-top: 12px;
+}
+
+.text-small-na {
+    font-size: 12px;
+}
+
+.vertical-line {
+    border-right: 1px solid #2d2c2c; /* สร้างเส้นคั่นแนวตั้งด้วย border แบบ solid สีเทา */
+    height: 200px; /* กำหนดความสูงของเส้นคั่น */
+    
+}
+
+.column-line {
+    width: 45%;
+}
+
+.column-line2 {
+    width: 55%;
+}
