@@ -3,6 +3,8 @@ import "./style_resume.css";
 export default function Resume(){
     return(
         <main className='flex min-h-screen flex-col p-24 font-serif bg-gradient-to-r from-cyan-500 to-blue-500'>
+
+            <title>Resume</title>
             <div className='flex justify-center'>
                 <div className="m-4 h-[950px] w-[650px]  bg-gray-50">
                     <p className='text-center margin-top-name text-2xl text-blue-900'>Teeranai Sangtaera</p>
