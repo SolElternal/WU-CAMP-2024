@@ -35,3 +35,5 @@ on Link my Result: https://web-profile-2024-vj7gbqt2t-teeranai-sangtaeras-projec
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+![ตัวอย่างรูปภาพ](src/app/Screenshot 2025-01-17 184617.png)
